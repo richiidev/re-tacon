@@ -1,0 +1,59 @@
+{
+  "name": "re-tacon",
+  "short_name": "re-tacon",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/re-tacon/apple-icon-57x57.png",
+      "sizes": "57x57",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/apple-icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/android-icon-36x36.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/ms-icon-70x70.png",
+      "sizes": "70x70",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/ms-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/ms-icon-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/re-tacon/ms-icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
